@@ -1,0 +1,401 @@
+OrderID,Date,Product,Category,Region,UnitsSold,UnitPrice,Revenue
+1069,2026-01-02,Backpack,Accessories,East,3,1012.7,3038.1
+1186,2026-01-02,Notebook Set,Stationery,West,5,154.03,770.15
+1060,2026-01-05,Water Bottle,Accessories,North,10,261.41,2614.1
+1129,2026-01-07,LED Desk Lamp,Electronics,East,8,767.48,6139.84
+1118,2026-01-10,Backpack Pro,Accessories,East,9,1718.42,15465.78
+1325,2026-01-10,Notebook Set,Stationery,West,4,153.99,615.96
+1239,2026-01-14,Office Chair,Furniture,South,1,4928.14,4928.14
+1320,2026-01-14,LED Desk Lamp,Electronics,East,1,790.73,790.73
+1364,2026-01-14,Backpack,Accessories,West,9,1006.22,9055.98
+1082,2026-01-15,Bluetooth Speaker,Electronics,East,5,1450.82,7254.1
+1120,2026-01-16,Study Table,Furniture,South,4,3617.7,14470.8
+1351,2026-01-16,Office Chair,Furniture,West,10,5088.03,50880.3
+1003,2026-01-17,Wireless Mouse,Electronics,North,2,582.15,1164.3
+1230,2026-01-17,Backpack Pro,Accessories,West,6,1748.14,10488.84
+1352,2026-01-18,Office Chair,Furniture,East,2,4867.02,9734.04
+1083,2026-01-20,Bluetooth Speaker,Electronics,East,10,1489.19,14891.9
+1226,2026-01-20,Notebook Set,Stationery,South,8,143.28,1146.24
+1323,2026-01-20,Notebook Set,Stationery,South,8,151.92,1215.36
+1338,2026-01-23,Study Table,Furniture,East,1,3434.48,3434.48
+1200,2026-01-24,Backpack,Accessories,East,1,978.36,978.36
+1393,2026-01-24,LED Desk Lamp,Electronics,South,1,804.62,804.62
+1099,2026-01-26,Yoga Mat,Fitness,North,4,624.01,2496.04
+1068,2026-01-27,Bluetooth Speaker,Electronics,North,7,1548.37,10838.59
+1257,2026-01-27,Notebook Set,Stationery,North,10,146.21,1462.1
+1147,2026-01-28,Yoga Mat,Fitness,South,5,610.83,3054.15
+1053,2026-01-30,Wireless Mouse,Electronics,South,10,597.61,5976.1
+1054,2026-01-30,Yoga Mat,Fitness,North,2,620.05,1240.1
+1380,2026-01-31,Office Chair,Furniture,West,8,4956.82,39654.56
+1108,2026-02-01,Study Table,Furniture,North,7,3460.33,24222.31
+1245,2026-02-01,Water Bottle,Accessories,North,7,247.16,1730.12
+1337,2026-02-02,Backpack Pro,Accessories,South,8,1715.7,13725.6
+1254,2026-02-04,Bluetooth Speaker,Electronics,North,2,1438.03,2876.06
+1185,2026-02-05,Notebook Set,Stationery,East,7,146.61,1026.27
+1277,2026-02-06,LED Desk Lamp,Electronics,West,1,793.9,793.9
+1061,2026-02-07,Yoga Mat,Fitness,South,4,599.35,2397.4
+1126,2026-02-08,Running Shoes,Fitness,East,4,2399.52,9598.08
+1219,2026-02-08,Office Chair,Furniture,West,4,5179.03,20716.12
+1350,2026-02-08,Coffee Mug,Kitchenware,South,7,196.28,1373.96
+1278,2026-02-09,Backpack,Accessories,West,10,991.94,9919.4
+1372,2026-02-10,Notebook Set,Stationery,East,4,151.01,604.04
+1032,2026-02-13,Backpack Pro,Accessories,South,8,1855.85,14846.8
+1137,2026-02-13,Study Table,Furniture,South,7,3495.0,24465.0
+1296,2026-02-13,Yoga Mat,Fitness,West,3,571.39,1714.17
+1281,2026-02-15,LED Desk Lamp,Electronics,West,2,778.49,1556.98
+1168,2026-02-16,Study Table,Furniture,North,10,3529.48,35294.8
+1215,2026-02-16,Notebook Set,Stationery,South,6,152.69,916.14
+1265,2026-02-16,Backpack Pro,Accessories,West,9,1747.75,15729.75
+1048,2026-02-17,Study Table,Furniture,West,3,3466.25,10398.75
+1094,2026-02-17,Study Table,Furniture,South,5,3402.65,17013.25
+1139,2026-02-17,Notebook Set,Stationery,South,4,147.58,590.32
+1181,2026-02-17,Study Table,Furniture,North,2,3485.51,6971.02
+1044,2026-02-20,Wireless Mouse,Electronics,North,7,612.67,4288.69
+1250,2026-02-20,Backpack Pro,Accessories,South,2,1862.47,3724.94
+1145,2026-02-21,Study Table,Furniture,South,5,3403.65,17018.25
+1199,2026-02-21,Water Bottle,Accessories,North,3,253.83,761.49
+1002,2026-02-22,Coffee Mug,Kitchenware,West,9,190.78,1717.02
+1007,2026-02-22,Bluetooth Speaker,Electronics,East,7,1438.55,10069.85
+1346,2026-02-22,Bluetooth Speaker,Electronics,East,6,1523.12,9138.72
+1098,2026-02-24,LED Desk Lamp,Electronics,West,4,773.1,3092.4
+1022,2026-02-26,Office Chair,Furniture,West,3,5145.01,15435.03
+1326,2026-02-26,Notebook Set,Stationery,North,4,146.04,584.16
+1001,2026-02-27,Wireless Mouse,Electronics,South,5,583.72,2918.6
+1026,2026-02-27,Notebook Set,Stationery,North,7,143.91,1007.37
+1025,2026-02-28,Coffee Mug,Kitchenware,East,9,203.99,1835.91
+1260,2026-02-28,Notebook Set,Stationery,West,10,144.92,1449.2
+1256,2026-03-04,LED Desk Lamp,Electronics,West,6,828.85,4973.1
+1363,2026-03-04,Study Table,Furniture,West,3,3406.88,10220.64
+1165,2026-03-05,Water Bottle,Accessories,East,5,253.97,1269.85
+1370,2026-03-05,Yoga Mat,Fitness,South,3,587.27,1761.81
+1192,2026-03-06,Yoga Mat,Fitness,North,10,588.94,5889.4
+1235,2026-03-06,Running Shoes,Fitness,South,4,2391.2,9564.8
+1241,2026-03-06,Backpack Pro,Accessories,North,7,1803.69,12625.83
+1373,2026-03-06,Coffee Mug,Kitchenware,North,5,201.28,1006.4
+1033,2026-03-07,Coffee Mug,Kitchenware,South,8,207.89,1663.12
+1113,2026-03-07,Running Shoes,Fitness,West,9,2380.79,21427.11
+1304,2026-03-07,Coffee Mug,Kitchenware,West,9,190.91,1718.19
+1396,2026-03-07,Bluetooth Speaker,Electronics,East,7,1479.99,10359.93
+1238,2026-03-08,Yoga Mat,Fitness,North,5,616.88,3084.4
+1369,2026-03-08,LED Desk Lamp,Electronics,North,9,831.82,7486.38
+1059,2026-03-09,Coffee Mug,Kitchenware,North,5,198.15,990.75
+1335,2026-03-10,Wireless Mouse,Electronics,South,6,601.76,3610.56
+1392,2026-03-10,Notebook Set,Stationery,East,6,152.93,917.58
+1115,2026-03-11,Water Bottle,Accessories,West,3,237.8,713.4
+1021,2026-03-12,Yoga Mat,Fitness,North,8,574.5,4596.0
+1274,2026-03-12,Notebook Set,Stationery,North,5,146.44,732.2
+1019,2026-03-15,Notebook Set,Stationery,East,3,145.22,435.66
+1194,2026-03-15,LED Desk Lamp,Electronics,East,3,765.03,2295.09
+1329,2026-03-15,Notebook Set,Stationery,East,7,141.57,990.99
+1095,2026-03-17,Wireless Mouse,Electronics,West,1,583.72,583.72
+1187,2026-03-18,Water Bottle,Accessories,East,9,248.61,2237.49
+1152,2026-03-19,Office Chair,Furniture,North,10,5223.52,52235.2
+1289,2026-03-19,Water Bottle,Accessories,East,2,248.23,496.46
+1182,2026-03-20,Water Bottle,Accessories,East,5,249.22,1246.1
+1051,2026-03-21,Study Table,Furniture,North,5,3400.22,17001.1
+1307,2026-03-21,Bluetooth Speaker,Electronics,North,5,1550.63,7753.15
+1268,2026-03-22,Running Shoes,Fitness,East,1,2542.47,2542.47
+1102,2026-03-23,Backpack Pro,Accessories,South,8,1790.02,14320.16
+1180,2026-03-23,Notebook Set,Stationery,West,9,141.75,1275.75
+1070,2026-03-24,Backpack Pro,Accessories,West,8,1808.3,14466.4
+1173,2026-03-24,Backpack,Accessories,East,7,1018.35,7128.45
+1015,2026-03-25,Water Bottle,Accessories,South,7,243.27,1702.89
+1076,2026-03-25,Office Chair,Furniture,East,7,4761.44,33330.08
+1093,2026-03-28,Coffee Mug,Kitchenware,East,2,194.7,389.4
+1202,2026-03-29,Office Chair,Furniture,West,2,5053.73,10107.46
+1280,2026-03-29,Running Shoes,Fitness,East,8,2581.97,20655.76
+1375,2026-03-29,Coffee Mug,Kitchenware,East,10,203.39,2033.9
+1090,2026-03-31,Running Shoes,Fitness,North,10,2449.26,24492.6
+1287,2026-04-01,Coffee Mug,Kitchenware,West,8,198.28,1586.24
+1310,2026-04-03,Backpack Pro,Accessories,South,10,1854.6,18546.0
+1177,2026-04-07,Yoga Mat,Fitness,West,6,606.35,3638.1
+1189,2026-04-07,Backpack Pro,Accessories,South,4,1811.92,7247.68
+1233,2026-04-08,Bluetooth Speaker,Electronics,South,8,1437.79,11502.32
+1340,2026-04-08,Notebook Set,Stationery,North,6,154.4,926.4
+1144,2026-04-09,Study Table,Furniture,East,8,3420.8,27366.4
+1314,2026-04-10,Backpack,Accessories,West,10,1047.4,10474.0
+1216,2026-04-13,Office Chair,Furniture,East,9,5187.19,46684.71
+1316,2026-04-13,Running Shoes,Fitness,North,3,2592.21,7776.63
+1058,2026-04-15,Coffee Mug,Kitchenware,West,6,193.8,1162.8
+1067,2026-04-15,Coffee Mug,Kitchenware,East,5,199.11,995.55
+1381,2026-04-15,Backpack,Accessories,East,10,963.4,9634.0
+1013,2026-04-18,Coffee Mug,Kitchenware,North,5,203.02,1015.1
+1377,2026-04-18,Running Shoes,Fitness,North,7,2528.52,17699.64
+1018,2026-04-19,Coffee Mug,Kitchenware,West,8,196.92,1575.36
+1157,2026-04-19,Notebook Set,Stationery,South,2,143.89,287.78
+1049,2026-04-20,LED Desk Lamp,Electronics,North,1,772.2,772.2
+1306,2026-04-20,Backpack,Accessories,South,8,968.23,7745.84
+1283,2026-04-24,Backpack,Accessories,North,3,956.68,2870.04
+1119,2026-04-25,Coffee Mug,Kitchenware,North,2,204.6,409.2
+1259,2026-04-25,Bluetooth Speaker,Electronics,East,6,1550.77,9304.62
+1037,2026-04-26,Bluetooth Speaker,Electronics,South,6,1427.2,8563.2
+1198,2026-04-27,Backpack Pro,Accessories,North,2,1787.12,3574.24
+1039,2026-04-28,Bluetooth Speaker,Electronics,North,1,1552.91,1552.91
+1212,2026-04-28,Running Shoes,Fitness,South,6,2428.78,14572.68
+1204,2026-04-29,Water Bottle,Accessories,North,5,247.99,1239.95
+1313,2026-04-30,Yoga Mat,Fitness,West,4,587.59,2350.36
+1231,2026-05-01,Backpack,Accessories,East,2,1047.04,2094.08
+1321,2026-05-01,LED Desk Lamp,Electronics,North,2,789.01,1578.02
+1121,2026-05-03,Office Chair,Furniture,South,8,5083.71,40669.68
+1327,2026-05-03,LED Desk Lamp,Electronics,North,10,795.57,7955.7
+1330,2026-05-04,Running Shoes,Fitness,North,7,2420.86,16946.02
+1389,2026-05-04,Study Table,Furniture,North,10,3447.53,34475.3
+1133,2026-05-05,Water Bottle,Accessories,West,10,251.75,2517.5
+1384,2026-05-07,Office Chair,Furniture,West,2,4774.35,9548.7
+1045,2026-05-08,Study Table,Furniture,South,4,3511.7,14046.8
+1153,2026-05-08,Bluetooth Speaker,Electronics,South,9,1538.64,13847.76
+1207,2026-05-09,Water Bottle,Accessories,West,5,241.51,1207.55
+1150,2026-05-10,Water Bottle,Accessories,West,2,257.02,514.04
+1175,2026-05-10,Backpack,Accessories,West,2,1045.97,2091.94
+1333,2026-05-10,Backpack Pro,Accessories,North,1,1773.29,1773.29
+1085,2026-05-11,Wireless Mouse,Electronics,South,7,569.15,3984.05
+1253,2026-05-11,Backpack,Accessories,West,3,1017.66,3052.98
+1286,2026-05-12,Study Table,Furniture,North,3,3534.83,10604.49
+1027,2026-05-15,Yoga Mat,Fitness,North,3,599.46,1798.38
+1358,2026-05-15,Notebook Set,Stationery,East,8,144.75,1158.0
+1034,2026-05-16,Yoga Mat,Fitness,South,10,594.4,5944.0
+1065,2026-05-16,Bluetooth Speaker,Electronics,South,2,1535.34,3070.68
+1161,2026-05-16,Coffee Mug,Kitchenware,South,10,202.21,2022.1
+1221,2026-05-16,Yoga Mat,Fitness,East,2,596.29,1192.58
+1163,2026-05-17,Office Chair,Furniture,East,2,4778.86,9557.72
+1169,2026-05-18,Running Shoes,Fitness,South,1,2564.75,2564.75
+1142,2026-05-19,Notebook Set,Stationery,South,5,144.99,724.95
+1066,2026-05-20,Notebook Set,Stationery,East,10,144.69,1446.9
+1210,2026-05-21,Wireless Mouse,Electronics,North,10,620.87,6208.7
+1290,2026-05-21,Running Shoes,Fitness,North,1,2462.0,2462.0
+1103,2026-05-22,Yoga Mat,Fitness,East,8,606.59,4852.72
+1012,2026-05-23,Water Bottle,Accessories,East,6,240.6,1443.6
+1117,2026-05-23,LED Desk Lamp,Electronics,West,5,825.76,4128.8
+1356,2026-05-23,Study Table,Furniture,South,2,3333.12,6666.24
+1136,2026-05-24,Running Shoes,Fitness,South,5,2512.94,12564.7
+1160,2026-05-25,Backpack Pro,Accessories,South,8,1721.86,13774.88
+1315,2026-05-25,LED Desk Lamp,Electronics,South,9,801.19,7210.71
+1390,2026-05-25,Water Bottle,Accessories,West,10,258.52,2585.2
+1318,2026-05-26,Bluetooth Speaker,Electronics,South,3,1464.94,4394.82
+1292,2026-05-27,Bluetooth Speaker,Electronics,West,2,1516.24,3032.48
+1391,2026-05-27,Yoga Mat,Fitness,West,1,619.8,619.8
+1179,2026-05-28,Water Bottle,Accessories,South,8,239.57,1916.56
+1011,2026-05-29,Bluetooth Speaker,Electronics,West,4,1553.94,6215.76
+1028,2026-06-02,Coffee Mug,Kitchenware,South,9,201.17,1810.53
+1110,2026-06-02,LED Desk Lamp,Electronics,South,7,802.05,5614.35
+1362,2026-06-03,Office Chair,Furniture,South,3,5145.82,15437.46
+1146,2026-06-04,Wireless Mouse,Electronics,North,9,576.63,5189.67
+1225,2026-06-04,Coffee Mug,Kitchenware,North,7,191.37,1339.59
+1091,2026-06-05,Notebook Set,Stationery,East,4,147.96,591.84
+1140,2026-06-06,Coffee Mug,Kitchenware,East,10,196.39,1963.9
+1031,2026-06-07,Study Table,Furniture,North,1,3408.33,3408.33
+1214,2026-06-08,Water Bottle,Accessories,South,1,250.98,250.98
+1263,2026-06-08,Backpack,Accessories,South,6,949.66,5697.96
+1291,2026-06-08,Water Bottle,Accessories,East,8,237.49,1899.92
+1302,2026-06-08,Coffee Mug,Kitchenware,North,7,191.62,1341.34
+1303,2026-06-08,Yoga Mat,Fitness,East,7,607.6,4253.2
+1366,2026-06-08,LED Desk Lamp,Electronics,West,8,801.05,6408.4
+1124,2026-06-09,Bluetooth Speaker,Electronics,East,10,1427.9,14279.0
+1143,2026-06-11,Bluetooth Speaker,Electronics,South,9,1566.59,14099.31
+1105,2026-06-13,Yoga Mat,Fitness,South,2,577.34,1154.68
+1322,2026-06-13,Bluetooth Speaker,Electronics,South,6,1542.68,9256.08
+1383,2026-06-13,Study Table,Furniture,West,8,3366.92,26935.36
+1247,2026-06-14,Running Shoes,Fitness,East,3,2390.46,7171.38
+1132,2026-06-15,Study Table,Furniture,West,2,3421.65,6843.3
+1371,2026-06-15,Backpack Pro,Accessories,East,4,1771.3,7085.2
+1016,2026-06-16,Wireless Mouse,Electronics,East,4,618.28,2473.12
+1116,2026-06-17,Study Table,Furniture,West,8,3438.41,27507.28
+1386,2026-06-17,Running Shoes,Fitness,South,6,2421.49,14528.94
+1400,2026-06-17,Running Shoes,Fitness,East,6,2414.66,14487.96
+1341,2026-06-19,Notebook Set,Stationery,West,2,153.46,306.92
+1301,2026-06-20,Bluetooth Speaker,Electronics,East,10,1523.53,15235.3
+1134,2026-06-22,Wireless Mouse,Electronics,South,8,620.02,4960.16
+1195,2026-06-23,Running Shoes,Fitness,East,7,2536.44,17755.08
+1343,2026-06-23,Office Chair,Furniture,East,8,5095.02,40760.16
+1206,2026-06-26,Running Shoes,Fitness,West,5,2533.72,12668.6
+1271,2026-06-26,LED Desk Lamp,Electronics,West,2,781.68,1563.36
+1334,2026-06-26,Study Table,Furniture,East,2,3594.0,7188.0
+1382,2026-06-26,LED Desk Lamp,Electronics,North,3,819.83,2459.49
+1361,2026-06-27,Backpack Pro,Accessories,East,2,1807.99,3615.98
+1062,2026-06-28,Bluetooth Speaker,Electronics,South,4,1479.44,5917.76
+1172,2026-06-28,LED Desk Lamp,Electronics,North,6,784.7,4708.2
+1079,2026-06-29,Notebook Set,Stationery,South,4,144.87,579.48
+1081,2026-06-29,Coffee Mug,Kitchenware,East,9,197.0,1773.0
+1285,2026-06-29,Backpack Pro,Accessories,South,3,1751.55,5254.65
+1348,2026-06-29,Water Bottle,Accessories,East,1,254.65,254.65
+1043,2026-07-01,LED Desk Lamp,Electronics,North,7,796.37,5574.59
+1074,2026-07-03,Study Table,Furniture,East,4,3557.41,14229.64
+1353,2026-07-05,LED Desk Lamp,Electronics,South,10,761.64,7616.4
+1394,2026-07-05,Yoga Mat,Fitness,West,5,573.45,2867.25
+1086,2026-07-06,LED Desk Lamp,Electronics,East,2,834.87,1669.74
+1255,2026-07-10,Office Chair,Furniture,East,9,4779.03,43011.27
+1298,2026-07-10,Notebook Set,Stationery,East,7,147.64,1033.48
+1029,2026-07-11,Office Chair,Furniture,North,9,5225.7,47031.3
+1036,2026-07-11,Water Bottle,Accessories,South,9,247.79,2230.11
+1009,2026-07-13,Bluetooth Speaker,Electronics,East,9,1468.0,13212.0
+1078,2026-07-15,Wireless Mouse,Electronics,West,8,582.37,4658.96
+1249,2026-07-15,Running Shoes,Fitness,West,9,2447.74,22029.66
+1097,2026-07-16,Water Bottle,Accessories,North,7,242.63,1698.41
+1106,2026-07-16,Backpack Pro,Accessories,North,3,1836.13,5508.39
+1184,2026-07-16,Study Table,Furniture,South,10,3501.88,35018.8
+1191,2026-07-17,Coffee Mug,Kitchenware,North,3,198.91,596.73
+1050,2026-07-19,Notebook Set,Stationery,West,8,145.8,1166.4
+1112,2026-07-19,Backpack,Accessories,West,7,1021.4,7149.8
+1332,2026-07-19,Water Bottle,Accessories,East,1,252.38,252.38
+1080,2026-07-24,Backpack,Accessories,East,5,1035.4,5177.0
+1252,2026-07-24,LED Desk Lamp,Electronics,East,2,784.02,1568.04
+1342,2026-07-24,Backpack Pro,Accessories,West,8,1870.0,14960.0
+1017,2026-07-25,Notebook Set,Stationery,East,2,144.69,289.38
+1174,2026-07-25,Yoga Mat,Fitness,East,1,596.29,596.29
+1077,2026-07-30,Coffee Mug,Kitchenware,North,4,194.36,777.44
+1190,2026-07-30,Wireless Mouse,Electronics,West,6,613.66,3681.96
+1107,2026-08-01,LED Desk Lamp,Electronics,West,6,802.4,4814.4
+1183,2026-08-01,Water Bottle,Accessories,South,8,242.62,1940.96
+1270,2026-08-01,Notebook Set,Stationery,North,4,152.8,611.2
+1279,2026-08-02,Notebook Set,Stationery,East,2,147.58,295.16
+1006,2026-08-05,Backpack,Accessories,East,5,964.58,4822.9
+1046,2026-08-05,Office Chair,Furniture,North,5,4980.32,24901.6
+1141,2026-08-06,Backpack Pro,Accessories,West,9,1768.56,15917.04
+1162,2026-08-06,Bluetooth Speaker,Electronics,South,9,1457.75,13119.75
+1073,2026-08-09,Office Chair,Furniture,North,1,4903.15,4903.15
+1201,2026-08-09,Office Chair,Furniture,South,4,5014.58,20058.32
+1251,2026-08-09,Water Bottle,Accessories,West,4,246.85,987.4
+1345,2026-08-09,Running Shoes,Fitness,East,3,2510.36,7531.08
+1167,2026-08-10,Backpack Pro,Accessories,North,6,1817.66,10905.96
+1084,2026-08-12,Running Shoes,Fitness,South,9,2402.95,21626.55
+1319,2026-08-12,Bluetooth Speaker,Electronics,East,4,1546.47,6185.88
+1063,2026-08-13,Yoga Mat,Fitness,North,5,605.69,3028.45
+1297,2026-08-13,Yoga Mat,Fitness,East,9,605.58,5450.22
+1311,2026-08-13,Wireless Mouse,Electronics,South,7,590.87,4136.09
+1104,2026-08-14,Bluetooth Speaker,Electronics,East,5,1459.2,7296.0
+1193,2026-08-14,Bluetooth Speaker,Electronics,North,9,1560.53,14044.77
+1047,2026-08-15,Yoga Mat,Fitness,North,2,572.08,1144.16
+1101,2026-08-15,Running Shoes,Fitness,West,9,2480.69,22326.21
+1178,2026-08-15,Wireless Mouse,Electronics,South,4,585.05,2340.2
+1269,2026-08-15,Coffee Mug,Kitchenware,West,7,198.71,1390.97
+1312,2026-08-16,Running Shoes,Fitness,West,5,2562.07,12810.35
+1347,2026-08-17,Running Shoes,Fitness,West,7,2415.69,16909.83
+1294,2026-08-19,Running Shoes,Fitness,West,4,2454.4,9817.6
+1354,2026-08-19,Backpack,Accessories,North,6,993.4,5960.4
+1368,2026-08-19,Water Bottle,Accessories,South,9,245.13,2206.17
+1243,2026-08-20,Yoga Mat,Fitness,North,4,625.68,2502.72
+1360,2026-08-20,Office Chair,Furniture,East,8,5247.58,41980.64
+1266,2026-08-21,Backpack,Accessories,East,3,986.02,2958.06
+1100,2026-08-22,Office Chair,Furniture,East,8,5082.77,40662.16
+1130,2026-08-24,Backpack Pro,Accessories,East,3,1787.39,5362.17
+1293,2026-08-25,Running Shoes,Fitness,North,9,2612.51,23512.59
+1336,2026-08-26,Backpack Pro,Accessories,South,8,1822.7,14581.6
+1092,2026-08-27,Water Bottle,Accessories,West,8,253.37,2026.96
+1122,2026-08-27,Backpack Pro,Accessories,South,5,1847.01,9235.05
+1205,2026-08-27,Notebook Set,Stationery,West,9,143.9,1295.1
+1170,2026-08-29,Yoga Mat,Fitness,South,8,623.92,4991.36
+1324,2026-08-29,Water Bottle,Accessories,North,10,236.68,2366.8
+1223,2026-08-30,Wireless Mouse,Electronics,East,10,622.02,6220.2
+1042,2026-08-31,LED Desk Lamp,Electronics,West,4,766.59,3066.36
+1399,2026-08-31,Yoga Mat,Fitness,South,8,577.97,4623.76
+1138,2026-09-01,Coffee Mug,Kitchenware,North,8,197.97,1583.76
+1242,2026-09-01,Water Bottle,Accessories,North,6,249.33,1495.98
+1149,2026-09-03,Water Bottle,Accessories,North,6,241.14,1446.84
+1218,2026-09-04,Notebook Set,Stationery,West,6,153.53,921.18
+1317,2026-09-04,Backpack,Accessories,North,9,1042.39,9381.51
+1208,2026-09-05,Bluetooth Speaker,Electronics,East,4,1481.22,5924.88
+1379,2026-09-05,Study Table,Furniture,North,7,3428.12,23996.84
+1111,2026-09-07,Study Table,Furniture,North,5,3476.55,17382.75
+1135,2026-09-07,Study Table,Furniture,East,6,3603.21,21619.26
+1229,2026-09-08,Running Shoes,Fitness,East,7,2608.72,18261.04
+1148,2026-09-09,Bluetooth Speaker,Electronics,West,1,1510.1,1510.1
+1151,2026-09-09,Bluetooth Speaker,Electronics,North,10,1518.4,15184.0
+1246,2026-09-09,Backpack Pro,Accessories,North,8,1722.27,13778.16
+1359,2026-09-09,Study Table,Furniture,North,2,3371.54,6743.08
+1275,2026-09-12,Backpack Pro,Accessories,West,7,1740.66,12184.62
+1378,2026-09-12,Coffee Mug,Kitchenware,East,9,194.81,1753.29
+1388,2026-09-12,Wireless Mouse,Electronics,West,2,625.67,1251.34
+1328,2026-09-13,Running Shoes,Fitness,South,9,2378.16,21403.44
+1357,2026-09-13,Yoga Mat,Fitness,North,7,623.77,4366.39
+1387,2026-09-13,Yoga Mat,Fitness,East,8,598.93,4791.44
+1166,2026-09-14,Yoga Mat,Fitness,North,8,595.27,4762.16
+1295,2026-09-14,Office Chair,Furniture,East,1,4974.27,4974.27
+1398,2026-09-14,Wireless Mouse,Electronics,East,1,571.38,571.38
+1374,2026-09-15,Coffee Mug,Kitchenware,South,3,200.83,602.49
+1088,2026-09-17,Notebook Set,Stationery,East,7,146.41,1024.87
+1308,2026-09-17,Yoga Mat,Fitness,East,9,571.31,5141.79
+1305,2026-09-18,Backpack,Accessories,South,1,985.27,985.27
+1040,2026-09-21,Study Table,Furniture,South,5,3558.13,17790.65
+1176,2026-09-21,Wireless Mouse,Electronics,North,9,596.72,5370.48
+1339,2026-09-21,LED Desk Lamp,Electronics,North,9,796.87,7171.83
+1344,2026-09-23,Notebook Set,Stationery,North,2,152.38,304.76
+1244,2026-09-24,Notebook Set,Stationery,North,8,151.14,1209.12
+1154,2026-09-25,LED Desk Lamp,Electronics,East,8,831.64,6653.12
+1282,2026-09-26,Bluetooth Speaker,Electronics,East,7,1554.54,10881.78
+1331,2026-09-26,Backpack,Accessories,North,2,1044.3,2088.6
+1272,2026-09-27,Coffee Mug,Kitchenware,West,5,189.95,949.75
+1024,2026-09-28,Notebook Set,Stationery,North,9,154.38,1389.42
+1217,2026-09-29,Yoga Mat,Fitness,East,5,618.8,3094.0
+1284,2026-09-29,Yoga Mat,Fitness,East,4,623.31,2493.24
+1128,2026-09-30,LED Desk Lamp,Electronics,East,6,764.56,4587.36
+1276,2026-09-30,Backpack Pro,Accessories,East,4,1799.05,7196.2
+1196,2026-10-01,LED Desk Lamp,Electronics,West,6,809.13,4854.78
+1227,2026-10-03,Office Chair,Furniture,West,7,4975.83,34830.81
+1035,2026-10-04,Backpack Pro,Accessories,West,4,1837.31,7349.24
+1041,2026-10-04,Office Chair,Furniture,South,10,5037.1,50371.0
+1197,2026-10-05,Wireless Mouse,Electronics,East,10,573.15,5731.5
+1232,2026-10-06,Coffee Mug,Kitchenware,East,6,190.25,1141.5
+1072,2026-10-07,Wireless Mouse,Electronics,South,6,603.94,3623.64
+1395,2026-10-09,Notebook Set,Stationery,North,10,151.69,1516.9
+1158,2026-10-10,Bluetooth Speaker,Electronics,West,3,1424.45,4273.35
+1188,2026-10-10,Yoga Mat,Fitness,East,7,596.33,4174.31
+1365,2026-10-10,Office Chair,Furniture,North,10,5191.08,51910.8
+1064,2026-10-11,Notebook Set,Stationery,South,2,155.54,311.08
+1089,2026-10-11,Office Chair,Furniture,West,4,4959.23,19836.92
+1220,2026-10-13,Backpack,Accessories,North,2,1028.04,2056.08
+1300,2026-10-13,Coffee Mug,Kitchenware,South,7,194.7,1362.9
+1397,2026-10-13,Backpack,Accessories,West,3,968.94,2906.82
+1075,2026-10-14,LED Desk Lamp,Electronics,South,10,818.93,8189.3
+1004,2026-10-15,Study Table,Furniture,West,9,3470.84,31237.56
+1071,2026-10-15,Wireless Mouse,Electronics,South,2,573.56,1147.12
+1261,2026-10-15,Running Shoes,Fitness,North,10,2542.73,25427.3
+1376,2026-10-16,Wireless Mouse,Electronics,East,1,573.92,573.92
+1264,2026-10-17,Coffee Mug,Kitchenware,North,7,190.43,1333.01
+1288,2026-10-17,Coffee Mug,Kitchenware,East,10,195.48,1954.8
+1267,2026-10-18,Running Shoes,Fitness,South,2,2594.8,5189.6
+1355,2026-10-21,Office Chair,Furniture,East,9,4932.49,44392.41
+1109,2026-10-22,LED Desk Lamp,Electronics,East,8,759.52,6076.16
+1125,2026-10-22,Coffee Mug,Kitchenware,South,7,196.94,1378.58
+1209,2026-10-22,Notebook Set,Stationery,West,5,141.88,709.4
+1367,2026-10-22,Bluetooth Speaker,Electronics,North,3,1569.81,4709.43
+1010,2026-10-23,Study Table,Furniture,South,2,3340.08,6680.16
+1258,2026-10-23,Yoga Mat,Fitness,West,4,578.32,2313.28
+1052,2026-10-24,Backpack Pro,Accessories,East,9,1720.02,15480.18
+1056,2026-10-24,Running Shoes,Fitness,West,1,2528.83,2528.83
+1057,2026-10-26,Running Shoes,Fitness,East,9,2453.11,22077.99
+1020,2026-10-27,LED Desk Lamp,Electronics,South,10,790.96,7909.6
+1171,2026-10-27,LED Desk Lamp,Electronics,West,8,836.48,6691.84
+1222,2026-10-27,LED Desk Lamp,Electronics,South,6,767.71,4606.26
+1228,2026-10-28,Backpack Pro,Accessories,North,3,1868.34,5605.02
+1236,2026-10-28,Study Table,Furniture,South,4,3439.01,13756.04
+1005,2026-10-29,Notebook Set,Stationery,South,1,152.86,152.86
+1038,2026-10-29,Study Table,Furniture,North,1,3348.89,3348.89
+1155,2026-10-29,LED Desk Lamp,Electronics,North,5,804.48,4022.4
+1240,2026-10-29,Backpack,Accessories,North,1,966.46,966.46
+1114,2026-10-31,Running Shoes,Fitness,West,1,2395.03,2395.03
+1055,2026-11-01,Bluetooth Speaker,Electronics,South,4,1484.58,5938.32
+1159,2026-11-01,Water Bottle,Accessories,East,5,237.36,1186.8
+1164,2026-11-01,Backpack Pro,Accessories,West,10,1874.77,18747.7
+1023,2026-11-02,Bluetooth Speaker,Electronics,West,7,1481.25,10368.75
+1234,2026-11-02,Wireless Mouse,Electronics,South,1,616.18,616.18
+1237,2026-11-02,Wireless Mouse,Electronics,South,5,620.47,3102.35
+1030,2026-11-03,Backpack,Accessories,East,8,951.0,7608.0
+1273,2026-11-03,Wireless Mouse,Electronics,South,1,581.29,581.29
+1299,2026-11-03,Wireless Mouse,Electronics,North,6,573.0,3438.0
+1127,2026-11-04,Bluetooth Speaker,Electronics,East,10,1541.37,15413.7
+1008,2026-11-06,Notebook Set,Stationery,North,1,152.42,152.42
+1123,2026-11-07,Running Shoes,Fitness,South,2,2568.42,5136.84
+1211,2026-11-07,Backpack Pro,Accessories,East,8,1858.88,14871.04
+1014,2026-11-08,Coffee Mug,Kitchenware,South,3,199.68,599.04
+1262,2026-11-08,Coffee Mug,Kitchenware,East,5,189.63,948.15
+1096,2026-11-09,Bluetooth Speaker,Electronics,South,8,1486.17,11889.36
+1156,2026-11-09,Backpack Pro,Accessories,South,2,1879.52,3759.04
+1224,2026-11-09,Study Table,Furniture,West,2,3546.38,7092.76
+1349,2026-11-11,LED Desk Lamp,Electronics,North,5,810.14,4050.7
+1131,2026-11-12,Yoga Mat,Fitness,East,8,596.9,4775.2
+1385,2026-11-12,LED Desk Lamp,Electronics,South,4,835.97,3343.88
+1309,2026-11-13,Office Chair,Furniture,South,10,4937.37,49373.7
+1203,2026-11-14,Coffee Mug,Kitchenware,South,4,198.95,795.8
+1213,2026-11-14,Notebook Set,Stationery,North,3,150.91,452.73
+1087,2026-11-16,Backpack,Accessories,East,2,1020.95,2041.9
+1248,2026-11-16,Coffee Mug,Kitchenware,East,10,199.96,1999.6
